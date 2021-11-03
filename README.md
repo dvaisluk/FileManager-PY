@@ -10,97 +10,63 @@
 
 1. Создание папки (с указанием имени);
 
-![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.001.png) ![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.002.png)
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.001.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.002.png) 
 
 2. Удаление папки по имени;
 
-![Изображение выглядит как текст, устройство
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.003.png) ![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.004.png)
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.003.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.004.png) 
 
 3. Перемещение между папками (в пределах рабочей папки) - заход в папку по имени, выход на уровень вверх;
 
-![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.005.png)
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.005.png) 
 
 4. Создание пустых файлов с указанием имени;
 
-![Изображение выглядит как текст, устройство
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.006.png) ![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.007.png)
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.006.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.007.png) 
 
 5. Запись текста в файл;
 
-![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.008.png) ![](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.009.png)
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.008.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.009.png) 
 
 6. Просмотр содержимого текстового файла;
 
-![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.010.png)
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.010.png) 
 
 7. Удаление файлов по имени;
 
-![](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.011.png)
-
-![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.012.png) 
-
-![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.013.png)
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.011.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.012.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.013.png) 
 
 8. Копирование файлов из одной папки в другую;
 
-![](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.014.png)
-
-![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.015.png)
-
-![](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.016.png)
-
-![](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.017.png)
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.014.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.015.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.016.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.017.png) 
 
 9. Перемещение файлов;
 
-![](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.018.png) ![Изображение выглядит как текст, снимок экрана, монитор, экран
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.019.png)
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.018.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.019.png) 
 
 10. Переименование файлов.
 
-![Изображение выглядит как текст, часы
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.020.png) ![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.021.png)
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.020.png)
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.021.png) 
 
 **Указания к выполнению**
 
 1. Расположение рабочей папки должно указываться в настройках файлового менеджера. Настройки должны располагаться в отдельном от основного исходного кода файле.
-
-![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.022.png)
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.022.png) 
 
 2. Файловый менеджер должен блокировать пользователя от выхода за пределы рабочей папки. Пользователь должен воспринимать рабочую папку как корневую и все действия файлового менеджера должны локализоваться только в пределах этой папки.
 
-![Изображение выглядит как текст, часы
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.023.png)
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.023.png) 
 
 3. Программный проект должен быть оформлен как код на языке программирования Python и располагаться в определенной папке. Проект должен состоять из нескольких файлов. Расположение рабочей папки не должно быть связано с физическим расположением файлов исходного кода.
 3. Файловый менеджер по умолчанию должен иметь текстовый интерфейс по аналогии с интерфейсом командной строки. Действия пользователя осуществляются вводом с клавиатуры соответствующей команды (по необходимости с параметрами).
@@ -113,27 +79,18 @@
 
 1. Сделайте файловый менеджер многопользовательским. Добавьте возможность регистрации пользователей. При регистрации каждому пользователю создается своя домашняя папка, в пределах которой он может работать.
 
-![](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.024.png)
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.024.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.025.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.026.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.027.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.028.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.029.png) 
 
-` `![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.025.png) ![](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.026.png) 
-
-![](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.027.png) ![Изображение выглядит как текст, устройство
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.028.png) ![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.029.png)
 
 2. Придумайте и добавьте дополнительные функциональные возможности для файлового менеджера. Сделаем: Квотирование дискового пространства и отображение занятого оставшегося места.
 
-![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.030.png) ![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.031.png)  ![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.032.png) ![Изображение выглядит как текст
-
-Автоматически созданное описание](Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.033.png)
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.030.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.031.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.032.png) 
+![](https://github.com/dvaisluk/FileManager-PY/raw/main/png/Aspose.Words.4117d108-cd13-436b-bb8e-73fc17532b8a.033.png) 
 
